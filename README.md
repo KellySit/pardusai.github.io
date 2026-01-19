@@ -16,7 +16,7 @@ Live demo: https://pardusai.org
 - and more...
 
 ## Demo
-
+<img src="assets/PardusAI Demo1.png" width="800" />
 
 ## Feedback
 We’d love feedback from users.  
